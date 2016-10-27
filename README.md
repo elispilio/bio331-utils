@@ -14,3 +14,5 @@ Auto-generated documentation is available on the [Bio331 website](http://www.ree
 
 GraphSpace was originally developed at Virginia Tech.  It is available at (www.graphspace.org) and the source code is available on the [GitHub Page](https://github.com/Murali-group/GraphSpace).
 
+example.py is filled with a variety of functions I think will be useful. In addition to some functions, there is a class called graph, which can act as a container for graph objects, and compute degree. This object also holds the node and edge attributes. The functions outside of this class are a breadth first search, a value to hex editor, a file input function. 
+Eli Spiliotopoulos
